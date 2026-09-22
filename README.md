@@ -8,11 +8,11 @@
 </div>
 
 <p align="left">
-  Helping LATAM dev teams accelerate with Copilot & AI.
+  Ayudo a equipos de LATAM a acelerar su adopción de Copilot & IA.
 </p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rogeroliva/">
+  <a href="https://www.linkedin.com/in/rogelio-oliva-opensource/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RogerMicrosoftCode">
@@ -26,11 +26,11 @@
 
 ---
 
-## 🔍 About
+## 🔍 Sobre mí
 
-I work with development teams across Latin America helping them adopt GitHub Copilot, AI-assisted workflows, and modern DevOps practices.
+Trabajo con equipos de desarrollo en América Latina para ayudarlos a adoptar GitHub Copilot, flujos de trabajo con IA y prácticas modernas de DevOps.
 
-I’m passionate about AI engineering, automation, cloud adoption, and helping organizations turn innovation into real business value.
+Me apasiona la ingeniería de IA, la automatización, la adopción en la nube y ayudar a las organizaciones a convertir la innovación en valor real para el negocio.
 
 ---
 
@@ -41,31 +41,31 @@ I’m passionate about AI engineering, automation, cloud adoption, and helping o
     <td width="50%">
       <h3>GitHub Copilot Fundamentals (.NET)</h3>
       <p><b>2h</b> · <b>.NET 8</b> · <b>Minimal APIs</b> · <b>Unit tests</b></p>
-      <p>Build a banking system from scratch using Copilot's Ask, Agent, and Plan modes. Covers custom instructions, custom agents, prompt files, and the full Copilot Chat workflow.</p>
+      <p>Construye un sistema bancario desde cero usando Ask, Agent y Plan de Copilot. Cubre instrucciones personalizadas, agentes personalizados, archivos prompt y el flujo completo de Copilot Chat.</p>
     </td>
     <td width="50%">
       <h3>Intelligent Apps + Azure OpenAI</h3>
       <p><b>2h</b> · <b>Python</b> · <b>Flask</b> · <b>GPT-4o</b></p>
-      <p>Build a citizen services virtual assistant using a simplified RAG pattern. Injects real system data into Azure OpenAI's context. Includes Docker + Azure Container Apps deployment.</p>
+      <p>Desarrolla un asistente virtual para servicios ciudadanos usando un patrón RAG simplificado. Inyecta datos reales del sistema en el contexto de Azure OpenAI. Incluye despliegue con Docker + Azure Container Apps.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Spec-Driven Development (Spec Kit)</h3>
       <p><b>3h</b> · <b>.NET 8</b> · <b>Spec Kit CLI</b> · <b>Copilot</b></p>
-      <p>Full spec-to-code lifecycle: constitution → specification → technical plan → task backlog → implementation. Banking REST API as the use case.</p>
+      <p>Ciclo de vida completo de spec-to-code: constitution → specification → technical plan → task backlog → implementation. API REST bancaria como caso de uso.</p>
     </td>
     <td width="50%">
       <h3>Copilot Customization Stack</h3>
       <p><b>Demo</b> · <b>Node.js</b> · <b>Agents</b> · <b>Code Review</b></p>
-      <p>Reference repo for the full Copilot extensibility surface: instructions, scoped instructions, prompt files, skills, custom agents with handoff chains, and Code Review setup.</p>
+      <p>Repositorio de referencia para la superficie completa de extensibilidad de Copilot: instrucciones, instrucciones con alcance, archivos prompt, skills, agentes personalizados con handoff chains y configuración de Code Review.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -82,7 +82,7 @@ I’m passionate about AI engineering, automation, cloud adoption, and helping o
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Actividad de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RogerMicrosoftCode&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
@@ -94,7 +94,7 @@ I’m passionate about AI engineering, automation, cloud adoption, and helping o
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Repositorios destacados
 
 <div align="left">
   <a href="https://github.com/RogerMicrosoftCode/AKS">
@@ -108,5 +108,5 @@ I’m passionate about AI engineering, automation, cloud adoption, and helping o
 ---
 
 <p align="center">
-  <i>“AI-first engineering for builders, teams, and enterprise transformation.”</i>
+  <i>“Ingeniería con IA para builders, equipos y transformación empresarial.”</i>
 </p>
